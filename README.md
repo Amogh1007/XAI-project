@@ -1,1 +1,2 @@
 # XAI-project
+This project develops an XAI-powered IDS/IPS that improves threat detection transparency. It uses ML/DL models (Isolation Forest, XGBoost, DNNs) and XAI techniques (SHAP, LIME, rule-based) to detect attacks like DDoS, SQL Injection, and Brute-Force with NSL-KDD and CIC-IDS2017 datasets. An automated mitigation module recommends countermeasures, with experiments showing high accuracy and plans for real-time and IoT integration.
